@@ -9,14 +9,14 @@ En últimos semestres de Ingeniería de sistemas y en proceso de bootcamp con **
 ## Tabla de comandos Linux
 
  |**Comando**|**Descripción**|
- |-------|-----------|
- |**Date**|Fecha y hora actuales|
- |**whoami**|Nombre del usuario|
- |**ls**|Listar archivos de la ubicación actual|
- |**cd**|Navegación entre carpetas|
- |**mkdir**|creación de carpetas|
- |**cat**|concatenar un texto de archivo|
- |**mv**|mover archivos o carpetas, También actualiza nombres|
+ |-----------|----------------------------------------------------|
+ |**Date**   |Fecha y hora actuales                               |
+ |**whoami** |Nombre del usuario                                  |
+ |**ls**     |Listar archivos de la ubicación actual              |
+ |**cd**     |Navegación entre carpetas                           |
+ |**mkdir**  |creación de carpetas                                |
+ |**cat**    |concatenar un texto de archivo                      |
+ |**mv**     |mover archivos o carpetas, También actualiza nombres|
  
  ## Alias útiles
  |Comando|alias|descripción|
